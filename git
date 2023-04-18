@@ -1,0 +1,23 @@
+[33mcommit c05685dbc0bd9ebb635441b3e164cc4d84649c00[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: 1512jyoti <kesrijyoti@gmail.com>
+Date:   Tue Apr 18 12:09:26 2023 +0530
+
+    added one more text file
+
+[33mcommit 9507334e7c959bceae8365ec4c8be1f99b205ae4[m
+Author: 1512jyoti <kesrijyoti@gmail.com>
+Date:   Tue Apr 18 11:56:01 2023 +0530
+
+    did changes in demo.txt
+
+[33mcommit 50ae69b1fa112fc614c073918a99e6602193a3a6[m
+Author: 1512jyoti <kesrijyoti@gmail.com>
+Date:   Mon Apr 17 18:25:36 2023 +0530
+
+    this is my second commit
+
+[33mcommit 5d368141a189968f8eaff8042a19c2b8294d9e04[m
+Author: 1512jyoti <kesrijyoti@gmail.com>
+Date:   Mon Apr 17 18:22:22 2023 +0530
+
+    this is my first git commit
